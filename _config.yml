@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "安全字典",
-        href: "https://www.secdic.com"
+        title: "安天实验室",
+        href: "http://www.antiy.com/"
     },{
         title: "0day.today",
         href: "https://cn.0day.today/"
