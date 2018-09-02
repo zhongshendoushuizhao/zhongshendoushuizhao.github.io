@@ -3,26 +3,44 @@ title: Antiylabs Blog
 SEOTitle: DC的博客 | DC Blog
 header-img: img/post-bg-desk.jpg
 email: xxxx@gmail.cn
+<<<<<<< HEAD
 description: "眼前两碗米饭,心中一粒飞鸿。"
 keyword: "antiy,DC Blog,APT,Vul,attack,windows,pwn,wpsec"
 url: "https://zhongshendoushuizhao.github.io"          # your host, for absolute URL
+=======
+description: "眼前两碗米饭,心中一粒飞鸿."
+keyword: "antiy,DC Blog,APT,Vul,attack,windows,pwn,wpsec"
+url: "http://zhongshendoushuizhao.github.io"          # your host, for absolute URL
+>>>>>>> d85919441c9acc742a0a33e17a64dc6b5e2ff2ac
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zhongshendoushuizhao/zhongshendoushuizhao.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
+<<<<<<< HEAD
 sidebar-about-description: "公开出丑可以克服自身各种心理障碍。"
+=======
+sidebar-about-description: "公开出丑可以克服自身各种心理障碍!"
+>>>>>>> d85919441c9acc742a0a33e17a64dc6b5e2ff2ac
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
+<<<<<<< HEAD
 # weibo_username:     qiubaiying
 zhihu_username:     antiy
 github_username:    antiy
 facebook_username:  antiy
 jianshu_username:   antiy
+=======
+weibo_username:     antiy
+zhihu_username:     antiy
+github_username:    antiy
+#facebook_username:  baiying.qiu.7
+#jianshu_username:   e71990ada2fd
+>>>>>>> d85919441c9acc742a0a33e17a64dc6b5e2ff2ac
 #twitter_username:   qiubaiying
 
 
@@ -60,6 +78,7 @@ kramdown:
 # disqus_username: qiubaiying
 
 # Gitalk
+<<<<<<< HEAD
 #gitalk:
   enable: False    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
@@ -67,6 +86,15 @@ kramdown:
   repo: qiubaiying.github.io    #仓库名称
   owner: qiubaiying    #github用户名
   admin: qiubaiying
+=======
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: ecdc8c10e0d5777f3aed                            #生成的clientID
+  clientSecret: 12450140dbf01c0f5c0d286677e25299b03be92e    #生成的clientSecret
+  repo: zhongshendoushuizhao.github.io    #仓库名称
+  owner: zhongshendoushuizhao    #github用户名
+  admin: zhongshendoushuizhao
+>>>>>>> d85919441c9acc742a0a33e17a64dc6b5e2ff2ac
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -99,8 +127,13 @@ service-worker: true
 # Friends
 friends: [
     {
+<<<<<<< HEAD
         title: "安全字典",
         href: "https://www.secdic.com"
+=======
+        title: "安天实验室",
+        href: "http://www.antiy.com/"
+>>>>>>> d85919441c9acc742a0a33e17a64dc6b5e2ff2ac
     },{
         title: "0day.today",
         href: "https://cn.0day.today/"
