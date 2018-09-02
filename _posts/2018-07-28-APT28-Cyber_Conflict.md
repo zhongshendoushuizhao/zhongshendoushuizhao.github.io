@@ -1,13 +1,12 @@
-
 ---
-layout:     post                    # 使用的布局（不需要改）
-title:      APT28-Cyber_Conflict               # 标题 
-subtitle:   APT28, Cyber_Conflict #副标题
-date:       2018-07-23              # 时间
-author:     DC                      # 作者
-header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
-catalog: true                       # 是否归档
-tags:                               #标签
+layout:     post
+title:      APT28-Cyber_Conflict
+subtitle:   APT28,Cyber_Conflict
+date:       2018-07-23
+author:     DC
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
     - apt28
 ---
 
