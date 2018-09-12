@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      
-subtitle:   
-date:
+title:      D-Link HNAP SOAP 查询验证绕过漏洞通报
+subtitle:   D-Link
+date: 2018-08-22
 author:     shenzhen_antiy_wly
 header-img: img/avatar-by.jpg
 catalog: true
