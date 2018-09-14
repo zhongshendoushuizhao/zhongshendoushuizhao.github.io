@@ -45,7 +45,9 @@ Adbs文件内容如下：
  
 ```
 
-![adbs](https://github.com/zhongshendoushuizhao/zhongshendoushuizhao.github.io/blob/master/img/adb.jpg)
+![adb.jpg](https://github.com/zhongshendoushuizhao/zhongshendoushuizhao.github.io/blob/master/img/adb.jpg?raw=true)
+
+
 
 
 
