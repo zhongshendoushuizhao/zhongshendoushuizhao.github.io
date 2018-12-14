@@ -1,3 +1,4 @@
+---
 layout:     post
 title:      TP-Link TL-WA850RE - Remote Command Execution
 subtitle:   TL-WA850RE，Remote Command Execution
@@ -10,7 +11,7 @@ tags:
     - TP-Link
     - RCE
     - VUL
-
+---
 # TP-Link TL-WA850RE - Remote Command Execution
 
 简析：该路由器为![1411571179-2008228670_m.jpg](https://github.com/zhongshendoushuizhao/project/blob/master/vul_learn/picture/1411571179-2008228670_m.jpg?raw=true) 
@@ -133,15 +134,15 @@ firmadyne 框架中 binwalk对于大部分固件提取上没问题，但是firma
 比较在意的是 wps-setup.json
 
 `{`
-	"timeout": false,
-	"success": true,
-	"data":{
-		"wps_setup_pin": "205300", 
-		"wl0_wps_setup_status": "success",
-		"wl1_wps_setup_status": "failed",
-		"wl0_wps_client_mac": "9A-34-7F-4C-B3-70",
-		"wl1_wps_client_mac": "C2-43-E5-42-D5-68"    
-	}
+​	"timeout": false,
+​	"success": true,
+​	"data":{
+​		"wps_setup_pin": "205300", 
+​		"wl0_wps_setup_status": "success",
+​		"wl1_wps_setup_status": "failed",
+​		"wl0_wps_client_mac": "9A-34-7F-4C-B3-70",
+​		"wl1_wps_client_mac": "C2-43-E5-42-D5-68"    
+​	}
 `}`
 
 根据请求可以明显看出
